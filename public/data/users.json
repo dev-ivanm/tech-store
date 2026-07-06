@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Alejandro Gómez",
+    "email": "alejandro@ejemplo.com",
+    "password": "hashed_password_123",
+    "rol": "administrador",
+    "photo": "images/users/alejandro.png"
+  },
+  {
+    "nombre": "Sofía Rodríguez",
+    "email": "sofia@ejemplo.com",
+    "password": "hashed_password_456",
+    "rol": "cliente",
+    "photo": "images/users/sofia.png"
+  },
+  {
+    "nombre": "Marcos Beltrán",
+    "email": "marcos@ejemplo.com",
+    "password": "hashed_password_789",
+    "rol": "cliente",
+    "photo": "images/users/marcos.png"
+  }
+]

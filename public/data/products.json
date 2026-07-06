@@ -1,0 +1,56 @@
+[
+  {
+    "nombre_producto": "Teclado Mecánico Premium",
+    "descripcion": "Teclado mecánico retroiluminado RGB con switches táctiles silenciosos, ideal para programar y escribir durante horas. Estructura de aluminio duradera.",
+    "precio": 129.99,
+    "photo": "images/products/keyboard_main.png",
+    "photo_galery": [
+      "images/products/keyboard_main.png",
+      "images/products/keyboard_detail_1.png",
+      "images/products/keyboard_detail_2.png"
+    ]
+  },
+  {
+    "nombre_producto": "Auriculares Inalámbricos ANC",
+    "descripcion": "Auriculares circumaurales con cancelación activa de ruido híbrida de alta fidelidad. Hasta 40 horas de reproducción continua.",
+    "precio": 199.99,
+    "photo": "images/products/headphones_main.png",
+    "photo_galery": [
+      "images/products/headphones_main.png",
+      "images/products/headphones_detail_1.png",
+      "images/products/headphones_detail_2.png"
+    ]
+  },
+  {
+    "nombre_producto": "Ratón Ergonómico Vertical",
+    "descripcion": "Ratón inalámbrico con diseño ergonómico vertical de 57 grados que mejora la postura de la muñeca y reduce la tensión muscular.",
+    "precio": 79.99,
+    "photo": "images/products/mouse_main.png",
+    "photo_galery": [
+      "images/products/mouse_main.png",
+      "images/products/mouse_detail_1.png",
+      "images/products/mouse_detail_2.png"
+    ]
+  },
+  {
+    "nombre_producto": "Lámpara de Escritorio Inteligente",
+    "descripcion": "Lámpara LED con ajuste de brillo y temperatura de color. Compatible con asistentes de voz y control táctil deslizante.",
+    "precio": 49.99,
+    "photo": "images/products/lamp_main.png",
+    "photo_galery": [
+      "images/products/lamp_main.png",
+      "images/products/lamp_detail_1.png",
+      "images/products/lamp_detail_2.png"
+    ]
+  },
+  {
+    "nombre_producto": "Soporte para Portátil Ajustable",
+    "descripcion": "Soporte de aluminio ventilado y plegable para portátil. Ofrece 6 niveles de ajuste de altura para un ángulo de visión óptimo.",
+    "precio": 34.99,
+    "photo": "images/products/stand_main.png",
+    "photo_galery": [
+      "images/products/stand_main.png",
+      "images/products/stand_detail_1.png"
+    ]
+  }
+]

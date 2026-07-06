@@ -1,0 +1,26 @@
+<div class="relative min-h-screen w-full bg-cover bg-center flex flex-col justify-end overflow-hidden" 
+     style="background-image: url('https://i.pinimg.com/1200x/3d/61/76/3d61765fe306ffe463bc7817a31c6498.jpg');">
+  <!-- Capa de degradado oscuro inferior para legibilidad del texto -->
+  <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent"></div>
+  
+  <!-- Contenedor del contenido (sobre el degradado) -->
+  <div class="relative z-10 w-full max-w-md mx-auto px-6 pb-12 flex flex-col items-center text-center space-y-6">
+    <!-- Textos principales -->
+    <div class="space-y-3">
+      <h1 class="text-4xl sm:text-5xl font-extrabold text-white tracking-wide leading-tight drop-shadow-md">
+        Todo en <br> tecnología 
+      </h1>
+      <p class="text-gray-300 text-sm sm:text-base font-medium px-4 leading-relaxed">
+        Innovación a tu alcance
+      </p>
+    </div>
+    
+    <!-- Botón de Acción -->
+    <button 
+      routerLink="/productos" 
+      class="w-full bg-[#ff7a30] hover:bg-[#e06624] text-white font-bold py-4 px-6 rounded-2xl transition-all duration-300 transform active:scale-95 shadow-lg shadow-orange-500/20 cursor-pointer"
+    >
+      Ver Productos
+    </button>
+  </div>
+</div>
